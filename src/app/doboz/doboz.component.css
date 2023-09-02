@@ -1,0 +1,13 @@
+.box{
+    background-color: blueviolet;
+    border: 2px dashed black;
+    height: 200px;
+    width:300px;
+    position:absolute
+}
+.grabbed{
+    cursor:grabbing;
+}
+.not-grabbed{
+    cursor:grab;
+}
